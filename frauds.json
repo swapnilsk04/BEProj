@@ -1,0 +1,114 @@
+{
+	"Frauds": {
+		"rec1":	{
+			"details": [
+			"Name":"SwapnilKshirsagar",
+			"Creditcardno":"1234567812345678",
+			"Macaddress":"00:0a:95:9d:68:16"
+			]
+			},
+		"rec2":	{
+			"details":[
+			"Name":"JayeshPotnagari",
+			"Creditcardno":"8765876543214321",
+			"Macaddress":"00:0a:95:9d:68:17"
+			]
+			},
+		"rec3":	{
+			"details": [
+			"Name":"PratikPawar",
+			"Creditcardno":"1357135724682468",
+			"Macaddress":"00:0a:95:9d:60:18"
+			]
+			},
+		"rec4":	{
+			"details":[
+			"Name":"SumitDoshi",
+			"Creditcardno":"1245781245782345",
+			"Macaddress":"00:0a:98:9d:61:19"
+			]
+			},
+		"rec5":	{
+			"details": [
+			"Name":"ManaliKajari",
+			"Creditcardno":"9876876598768765",
+			"Macaddress":"00:0a:95:9d:67:11"
+			]
+			},
+		"rec6":	{
+			"details":[
+			"Name":"MiteshKanther",
+			"Creditcardno":"5432432165437654",
+			"Macaddress":"00:0a:95:9d:66:12"
+			]
+			},
+		"rec7":	{
+			"details": [
+			"Name":"SiddheshPawar",
+			"Creditcardno":"6789567834564567",
+			"Macaddress":"00:0a:95:9d:65:13"
+			]
+			},
+		"rec8":	{
+			"details":[
+			"Name":"SayaliPatil",
+			"Creditcardno":"8899889977665544",
+			"Macaddress":"00:0a:98:9d:64:14"
+			]
+			},
+		"rec9":	{
+			"details": [
+			"Name":"AnirudhKulkarni",
+			"Creditcardno":"1234432156788765",
+			"Macaddress":"00:0a:95:9d:68:56"
+			]
+			},
+		"rec10":	{
+			"details":[
+			"Name":"FalguniKulkarni",
+			"Creditcardno":"0128734611223344",
+			"Macaddress":"00:0a:95:9d:68:55"
+			]
+			},
+		"rec11":	{
+			"details": [
+			"Name":"AmeyMore",
+			"Creditcardno":"1133557798765432",
+			"Macaddress":"00:0a:95:9d:60:54"
+			]
+			},
+		"rec12":	{
+			"details":[
+			"Name":"HarshKothari",
+			"Creditcardno":"0099887766554433",
+			"Macaddress":"00:0a:98:9d:61:53"
+			]
+			},
+		"rec13":	{
+			"details": [
+			"Name":"AyushKothari",
+			"Creditcardno":"1212343445455656",
+			"Macaddress":"00:0a:95:9d:67:52"
+			]
+			},
+		"rec14":	{
+			"details":[
+			"Name":"YuvrajKanther",
+			"Creditcardno":"0864123424683579",
+			"Macaddress":"00:0a:95:9d:66:51"
+			]
+			},
+		"rec15":	{
+			"details": [
+			"Name":"ArvindPawar",
+			"Creditcardno":"0123234534568765",
+			"Macaddress":"00:0a:95:9d:65:50"
+			]
+			}
+		}
+}
+		
+		
+
+			
+		
